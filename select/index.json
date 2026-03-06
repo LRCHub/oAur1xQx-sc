@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Young",
+  "base_artist": "Vacations",
+  "createdAt": "2026-03-06T05:40:29.140384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Die Young",
+      "artist": "Kesha",
+      "has_synced": true,
+      "path": "select/01_Die_Young_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Country Boy (feat. Charlie Daniels, Chris Young, & George Jones)",
+      "artist": "Aaron Lewis",
+      "has_synced": true,
+      "path": "select/02_Country_Boy_(feat._Charlie_Daniels,_Chris_Young,_&_George_Jones)_Aaron_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If I Die Young",
+      "artist": "The Band Perry",
+      "has_synced": true,
+      "path": "select/03_If_I_Die_Young_The_Band_Perry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Map of Tasmania (Feat. The Young Punx)",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/04_Map_of_Tasmania_(Feat._The_Young_Punx)_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blame It On Being Young",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/05_Blame_It_On_Being_Young_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If the Good Die Young",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/06_If_the_Good_Die_Young_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "If the Good Die Young (Album Version)",
+      "artist": "Tracy Lawrence",
+      "has_synced": true,
+      "path": "select/07_If_the_Good_Die_Young_(Album_Version)_Tracy_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Much Too Young (To Feel This Damn Old)",
+      "artist": "Brooks Jefferson",
+      "has_synced": false,
+      "path": "select/08_Much_Too_Young_(To_Feel_This_Damn_Old)_Brooks_Jefferson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Til Now (feat. Brett Young)",
+      "artist": "Ashley Cooke",
+      "has_synced": true,
+      "path": "select/09_Never_Til_Now_(feat._Brett_Young)_Ashley_Cooke.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Remember You Young",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/10_Remember_You_Young_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Startin' Young",
+      "artist": "Brandon Lay",
+      "has_synced": true,
+      "path": "select/11_Startin'_Young_Brandon_Lay.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay Young",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/12_Stay_Young_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Young Country",
+      "artist": "Hank Williams, Jr.",
+      "has_synced": true,
+      "path": "select/13_Young_Country_Hank_Williams,_Jr..lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Young Forever",
+      "artist": "Eric Paslay",
+      "has_synced": false,
+      "path": "select/14_Young_Forever_Eric_Paslay.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Young Love",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/15_Young_Love_Sonny_James.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Young",
+      "artist": "Vacations",
+      "has_synced": false,
+      "path": "select/pl_01_Young_Vacations.txt"
+    }
+  ]
+}
